@@ -15,7 +15,14 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
 
+      - name: Install htmlextra
+        run: npm install -g newman-reporter-htmlextra
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: newman run 'REQRES.IN APIs ITI Project.postman_collection.json'
+
+      - uses: actions/upload-artifact@v2
+        with: 
+           name: newman-reports
+           path: ./newman
 
