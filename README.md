@@ -84,15 +84,12 @@ Basically, on API Testing, we send a request to the API with the known data and 
 **Difference between API testing and Unit Testing?**
 | UNIT TESTING | API TESTING |
 | ---- | ---- |
-| - Unit testing is conducted by the Development Team
-- Unit testing is a form of White box testing
-- Unit testing is conducted prior to the process of including the code in the build
-- Source code is involved in Unit testing
-- In unit testing, the scope of testing is limited, so only basic functionalities are considered for testing | - API testing is conducted by QA Team
-- API testing is a form of Black box testing
-- API testing is conducted after the build is ready for testing
-- Source code is not involved in API testing
-- In API testing, the scope of testing is wide, so all the issues that are functional are considered for testing |
+| Unit testing is conducted by the Development Team | API testing is conducted by QA Team |
+| Unit testing is a form of White box testing | API testing is a form of Black box testing     |
+| Unit testing is conducted prior to the process of including the code in the build | API testing is conducted after the build is ready for testing |
+| Source code is involved in Unit testing | Source code is not involved in API testing |
+| In unit testing, the scope of testing is limited, so only basic functionalities are considered for testing | In API testing, the scope of testing is wide, so all the issues that are functional are considered for testing      |
+
 
 **What is Postman?**
 Postman is a API testing tool used by more than 20 million users. It has gained a immense popularity in the IT industry among the developers and testers. The simple and user-friendly interface helps when it comes to documenting, designing, and testing APIs. You can create requests to API endpoints, send various types of data, and examine responses effortlessly with Postman. Its simple and informative graphical user interface makes it easy for even a less experienced beginner to interact with APIs without digging into complex code.
