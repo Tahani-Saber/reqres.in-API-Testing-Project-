@@ -9,11 +9,6 @@ Routine: a program that performs a particular task. Routine is also known as pro
 Protocols: A format for transmitting data between two systems.
 
 In simple words, API stands for Application Programming Interface. API acts as an interface between two software applications and allows the two software applications to communicate with each other. API is a collection of software functions that can be executed by another software program.
-  
-**What is Automation Testing?**  
-Automation Testing is a software testing technique that performs using special automated testing software tools to execute a test case suite. On the contrary,Manual Testing is performed by a human sitting in front of a computer carefully executing the test steps.  
-The automation testing software can also enter test data into the System Under Test, compare expected and actual results and generate detailed test reports.Software Test Automation demands considerable investments of money and resources.  
-Successive development cycles will require execution of same test suite repeatedly. Using a test automation tool, it’s possible to record this test suite and re-play it as required. Once the test suite is automated, no human intervention is required. This improved ROI of Test Automation. The goal of Automation is to reduce the number of test cases to be run manually and not to eliminate Manual Testing altogether.  
 
 Let’s see some examples of an API in a more approachable way.
 
