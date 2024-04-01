@@ -100,6 +100,9 @@ Postman is a API testing tool used by more than 20 million users. It has gained 
 - Design and Mocking: Postman’s design and mocking features eliminate the need for initial backend server setup, expediting API development
 **what is Newman?**
 Newman is a command-line collection runner for Postman. It allows you to effortlessly run and test a Postman collection directly from the command-line. It is built with extensibility in mind so that you can easily integrate it with your continuous integration servers and build systems.
-
+**Demo**
+  [![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // [Video Link](https://youtu.be/FOeQIr5D7i8)
 
 
